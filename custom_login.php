@@ -2,11 +2,11 @@
   defined('ABSPATH') or die("Thanks for visting");
   /**
   * Plugin Name: Custom Login Page
-  * Plugin URI: https://lerch-familie.de
+  * Plugin URI: https://moritz-lerch.de
   * Description: Plugin, um das Anmeldefenster von WordPress zu personalisieren / momentan noch ohne Variablen
   * Version: 1.7
   * Author: Moritz Lerch
-  * Author URI: https://lerch-familie.de
+  * Author URI: https://moritz-lerch.de
   * License: GPL2
   * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
   * Text Domain:  cus-wp-admin-logo
