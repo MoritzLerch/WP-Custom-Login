@@ -17,7 +17,7 @@
 function custom_login_logo() { ?>
     <style type="text/css">
         body.login div#login h1 a {
-            background-image: url(http://lerch-familie.de/wp-content/themes/img/logo.png);
+            background-image: url(http://YOURWEBSITEURL/wp-content/themes/img/logo.png);
 			background-size: 150px;
 			width: 150px;
 			height: 150px;
